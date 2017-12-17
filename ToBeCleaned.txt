@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 To be cleaned
 modifiche da emendare al commit
+||||||| merged common ancestors
+=======
+To be cleaned
+>>>>>>> cee50697aa96ff9abaed3b7dd3c65505ed2edb94
